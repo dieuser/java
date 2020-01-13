@@ -13,13 +13,3 @@ Windows operating system
 Eclipse IDE for Java Developers
 
 or any other java IDE
-
-
-
-# Installing
-
-# 
-
-#
-
-#
